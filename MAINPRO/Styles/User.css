@@ -1,0 +1,16 @@
+﻿.UserLogin{
+    align-content:center;
+    display:flex;
+    justify-content:center;
+    width:auto;
+}
+#Username,#Password{
+        font-size:15px;
+   // margin-bottom:20px;
+    background-color:#FFF;
+     //margin-left:120px;
+    color:black;
+    font-family:'Times New Roman';
+    padding-left:50px;
+
+}
